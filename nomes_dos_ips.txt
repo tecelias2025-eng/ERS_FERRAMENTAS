@@ -1,0 +1,30 @@
+LISTA DE IPS E NOMES 
+================================= 
+ 
+--- IP: 192.168.0.1 --- 
+Disparando 192.168.0.1 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.2 --- 
+Disparando 192.168.0.2 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.4 --- 
+Disparando 192.168.0.4 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.22 --- 
+Disparando ARCHER_C5 [192.168.0.22] com 32 bytes de dados:
+ 
+--- IP: 192.168.0.101 --- 
+Disparando PC-BRANCO.home [192.168.0.101] com 32 bytes de dados:
+ 
+--- IP: 192.168.0.109 --- 
+Disparando 192.168.0.109 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.112 --- 
+Disparando 192.168.0.112 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.116 --- 
+Disparando 192.168.0.116 com 32 bytes de dados:
+ 
+--- IP: 192.168.0.118 --- 
+Disparando 192.168.0.118 com 32 bytes de dados:
+ 
